@@ -7,8 +7,8 @@ import {
 
 const HomePage = () => (
     <Dashboard>
-        <DashboardMenu title="Jogo da Memória">
-            <DashboardButton to="/game">Iniciar Jogo</DashboardButton>
+        <DashboardMenu title="See You">
+            <DashboardButton to="/seeyou">See You</DashboardButton>
         </DashboardMenu>
     </Dashboard>
 );
